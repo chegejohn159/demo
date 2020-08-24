@@ -1,0 +1,29 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Vesperr Bootstrap Template - Index",
+    "short_name": "Vesperr Bootstr",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://sitedemo1.netlify.app/",
+    "background_color": "transparent",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://sitedemo1.netlify.app/assets/img/favicon.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "https://sitedemo1.netlify.app/assets/img/apple-touch-icon.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        }
+    ],
+    "url": "https://sitedemo1.netlify.app/",
+    "screenshots": []
+}
